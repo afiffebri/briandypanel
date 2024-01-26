@@ -8,7 +8,7 @@ x-common:
     MYSQL_ROOT_PASSWORD: "adikafif123"
   panel:
     &panel-environment
-    APP_URL: "panel.briandy.my.id"
+    APP_URL: "http://example.com"
     # A list of valid timezones can be found here: http://php.net/manual/en/timezones.php
     APP_TIMEZONE: "Asia/Bangkok"
     APP_SERVICE_AUTHOR: "afiffebriandy@gmail.com"
